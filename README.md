@@ -59,8 +59,6 @@
 
 <hr/>
 
-<br/>
-
 <div align="center">
     
 ![darth](https://github.com/harshjuly12/harshjuly12/assets/112745312/670688dc-7750-4e61-a00a-88b9c8c9c64f)
