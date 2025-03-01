@@ -16,7 +16,7 @@
     A Peek Into My World
 <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af" width="50">
 </h3>
-![BTC Price](https://img.shields.io/endpoint?url=https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd)
+![BTC Price](https://img.shields.io/endpoint?url=https://your-proxy-api.com/btc-price.json)
 
 <div align="center">
  
