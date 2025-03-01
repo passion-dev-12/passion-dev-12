@@ -16,7 +16,23 @@
     A Peek Into My World
 <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af" width="50">
 </h3>
-![BTC Price](https://img.shields.io/endpoint?url=https://your-proxy-api.com/btc-price.json)
+ <video
+      className="h-full w-full object-cover"
+      autoPlay
+      playsInline
+      loop
+      muted
+      preload="auto"
+    >
+      <source src="https://www.w3schools.com/Html/movie.mp4" type="video/mp4" />
+      {/* <track
+          src=""
+          kind="subtitles"
+          srcLang="en"
+          label="English"
+        /> */}
+      Your browser does not support the video tag.
+    </video>
 
 <div align="center">
  
